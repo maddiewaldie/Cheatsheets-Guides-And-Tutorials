@@ -2,6 +2,8 @@
 
 As a developer, half of my time "coding" is spent scouring the internet, looking for APIs, documentation, and tutorials. Over the years, I have created these cheat sheets, guides, and tutorials, detailing information I often lookup, as well as information I've learned in classes. I hope that these resources are as helpful for you as they have been to me! :)
 
+> **Announcement:** More cheatsheets coming soon!
+
 ## Table of Contents
 
 1. **Cheat Sheets:**
