@@ -135,3 +135,8 @@
 ## Picture
 
     ![Text](https://linkToPicture)
+    
+    OR
+    
+    <img src = "https://linkToPicture" 
+    alt = "Alt Text For Picture">
