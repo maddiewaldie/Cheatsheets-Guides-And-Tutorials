@@ -6,7 +6,7 @@ As a developer, half of my time "coding" is spent scouring the internet, looking
 
 1. **Cheat Sheets:**
     * [C++ Cheat Sheet](C++Cheatsheet.md)
-    * [GitHub Commands Cheat Sheet](GitHubCommands.md)
+    * [GitHub Commands Cheat Sheet](GithubCommands.md)
     * [Markdown Cheat Sheet](MarkdownCheatsheet.md)
     * [VSCode Commands](VSCodeCommands.md)
 
